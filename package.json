@@ -1,0 +1,23 @@
+{
+  "name": "test_rails_gulp",
+  "version": "1.0.0",
+  "description": "Test Rails with Gulp SASS",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "Gulp"
+  ],
+  "author": "DM",
+  "license": "ISC",
+  "devDependencies": {
+    "browser-sync": "^2.11.1",
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^3.1.0",
+    "gulp-sass": "^2.1.1"
+  }
+}
